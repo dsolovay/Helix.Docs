@@ -14,8 +14,9 @@ in terms of dependency direction.
 
 Even though layers are a conceptual construct in the architecture,
 layers are physically described in the implementation by folders in the
-filesystem, Visual Studio and Sitecore, along with namespaces in code and
-layers defines in which direction modules can depend on other modules.
+filesystem, Visual Studio and Sitecore, along with namespaces in code. 
+The layer construct defines in which direction modules can depend on 
+other modules.
 
 Layers helps control the direction of dependencies – the importance of
 which is described by the Stable Dependencies Principle or SDP, which is
