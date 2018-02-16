@@ -55,7 +55,7 @@ important to understand the principles behind each of these.
     Figure: Layers in the Sitecore Architecture Conventions
 
 Practically speaking, the three layers are defined in Visual Studio as
-Solution folders, in the file system and directories and in Sitecore as
+Solution folders, in the file system as directories and in Sitecore as
 corresponding content type folders.
 
 These are the typical places where layer folders are defined in
