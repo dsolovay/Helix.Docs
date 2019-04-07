@@ -37,7 +37,7 @@ to think about Sitecore solutons in Helix terms wil find this section of
 interest.
 
 A note on conventions: The proposed architecture seek sot implement a set
-of principles, and is not meant to be interpreted as a set of inonclad rules
+of principles, and is not meant to be interpreted as a set of ironclad rules
 on questions such as project boundaries and technology choices. The specific 
 choices adopted by development teams will depend on a number of factors,
 such as the size of the team, the complexity of the solution, and the team's
